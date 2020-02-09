@@ -48,7 +48,7 @@ public class CreateCampaignTest {
 		}
 		else
 		{
-			System.out.println("fail");
+			System.out.println("failed");
 		}
 		driver.findElement(By.linkText("Campaigns")).click();
 		driver.findElement(By.cssSelector("input[class='txtBox']")).sendKeys(f.fetchDatafromExcel("Campaign",1,0), Keys.TAB);
