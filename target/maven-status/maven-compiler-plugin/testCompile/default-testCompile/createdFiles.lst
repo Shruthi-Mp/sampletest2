@@ -1,0 +1,4 @@
+com\testscripts\Createcamp2UsingTestNG_annotn_extendingBaseClass.class
+com\testscripts\Create_duplicate_N_ValidateQuotes.class
+com\testscripts\CreateCampaignTest.class
+com\testscripts\CreateCampaignTest_usingPom_v5.class
